@@ -1,49 +1,30 @@
+ 
 
-
-C:\Users\Katharine\.lein\bin\test1>lein run
+C:\Users\Katharine\.lein\bin\diagnostics>lein run
 Hello, World!
 
-Downtown
-15.0
-{:restaurantname Boss Hog, :location Downtown, :price 10.0}
-{:restaurantname Cross Roads, :location Downtown, :price 8.0}
+illegal
 
-Lincoln Park
-{:restaurantname Mastros, :location Lincoln Park}
-{:restaurantname Sammy's, :location Lincoln Park}
-{:restaurantname Appletons, :location Lincoln Park}
-{:restaurantname Tex Mex, :location Lincoln Park}
+can%
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 nil, :fix2 nil}
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 }
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 }
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 }
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 Misspelling else}
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 Misspelling else}
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 Misspelling else}
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 Misspelling else}
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 Misspelling else}
+{:def All identifiers in JAVA must be declared before being used, :fix1 An identifier can only be declared once in the same scope, :fix2 Misspelling else}
 
-20.0
-{:restaurantname Mastros, :price 15.0}
-{:restaurantname Wild Ginger, :price 20.0}
-{:restaurantname Boss Hog, :price 10.0}
-{:restaurantname Appletons, :price 15.0}
-{:restaurantname Cross Roads, :price 8.0}
-
-Steakhouse
-{:restaurantname Mastros, :cuisine Steakhouse}
-{:restaurantname Sammy's, :cuisine Steakhouse}
-{:restaurantname Appletons, :cuisine Steakhouse}
-{:restaurantname Cross Roads, :cuisine Steakhouse}
-
-Steakhouse
-3
-45
-{:restaurantname Mastros, :cuisine Steakhouse, :rating 3, :price 15.0}
-{:restaurantname Sammy's, :cuisine Steakhouse, :rating 3, :price 35.0}
-{:restaurantname Appletons, :cuisine Steakhouse, :rating 4, :price 15.0}
-{:restaurantname Cross Roads, :cuisine Steakhouse, :rating 3, :price 8.0}
-
-Steakhouse
-shellfish
-{:restaurantname Mastros, :cuisine Steakhouse, :allergyalerts peanuts}
-{:restaurantname Sammy's, :cuisine Steakhouse, :allergyalerts none}
-{:restaurantname Appletons, :cuisine Steakhouse, :allergyalerts none}
-
-bo%
-{:restaurantname Bombay Cafe}
-{:restaurantname Boneyard}
-{:restaurantname Boss Hog}
-
-C:\Users\Katharine\.lein\bin\test1>
+C:\Users\Katharine\.lein\bin\diagnostics>

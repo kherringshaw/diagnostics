@@ -1,0 +1,9 @@
+create database diagnostics;
+
+create table issues(
+	issue		varchar(255),
+	def	varchar(255),
+	fix1	varchar(255),
+	fix2	varchar(255),
+       
+) ;
